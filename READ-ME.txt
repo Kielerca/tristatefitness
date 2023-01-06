@@ -1,4 +1,4 @@
-  =>  Template Name    : Tristate Fitness - Gym HTML Template
+  =>  Template Name    : Tristate Fitness 
 
   =>  Template Link    : https://htmlcodex.com/gym-html-template
 
@@ -8,4 +8,4 @@
 
   =>  Author Website   : https://htmlcodex.com
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of TRISTATE FITNESS, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
