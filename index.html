@@ -41,6 +41,16 @@
 </script>
 <script src="https://cdn.lr-in-prod.com/LogRocket.min.js" crossorigin="anonymous"></script>
 <script>window.LogRocket && window.LogRocket.init('cy7ikr/tristate-fitness');</script>
+<script>
+ if (typeof jQuery !== 'undefined') var oldJQuery = jQuery.noConflict(true);
+</script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" > </script>
+
+<script> jQueryX = jQuery.noConflict(true); jQuery = oldJQuery; </script>
+
+<script type="text/javascript" src="https://tristatefitness.gymmasteronline.com/portal/static/js/hostpage.js"> </script>
+
 
 <body>
     <!-- Header Start -->
@@ -254,14 +264,14 @@
             <div class="col-12 text-center" id="JoinToday">
                 <div class="col-12 col-lg-6 offset-lg-3">
                     <h1 class="text-uppercase text-light mb-4">JOIN TODAY</h1>
-                    <iframe class="gmiframe" 
-                            src="https://tristatefitness.gymmasteronline.com/portal/login" 
-                            width="100%" 
-                            seamless="" 
-                           
-                            frameborder="0" 
-                            id="iFrameResizer0" 
-                            style="overflow: scroll; height: 655.391px; background-color: white; border-radius: 8px;"></iframe>
+
+                    <figure>
+                      <iframe class="gmiframe" src="https://tristatefitness.gymmasteronline.com/portal/?logo=0" 
+                          width="100%" scrolling="no"    id="iFrameResizer0" 
+                          frameborder="0" allow="camera *"
+                          style="overflow: scroll; height: 655.391px; background-color: white; border-radius: 8px;"> 
+                      </iframe>
+                    </figure>
                 </div>
             </div>
         </div>
